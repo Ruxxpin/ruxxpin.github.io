@@ -13,11 +13,11 @@ body {
 
 }
 
-img {
+a > img {
     opacity: 0.5;
   }
   
-  img:hover {
+a >  img:hover {
     opacity: 1.0;
   }
 
