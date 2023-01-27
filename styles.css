@@ -13,6 +13,14 @@ body {
 
 }
 
+img {
+    opacity: 0.5;
+  }
+  
+  img:hover {
+    opacity: 1.0;
+  }
+
 .footer {
     margin-top: auto;
   }
