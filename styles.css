@@ -3,7 +3,7 @@ body {
     position: relative;
     width: 100%;
     height: 100%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto';
     letter-spacing: 2px;
     display: flex;
     flex-direction: column;
